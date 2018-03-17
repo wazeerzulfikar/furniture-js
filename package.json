@@ -15,8 +15,8 @@
   },
   "scripts": {
     "prep": "yarn",
-    "watch": "watchify main.ts -p [tsify] -v --debug -o ./bundle.js",
-    "build": "browserify main.ts -p [tsify] -o ./bundle.js",
+    "watch": "watchify main_full.ts -p [tsify] -v --debug -o ./bundle.js",
+    "build": "browserify main_full.ts -p [tsify] -o ./bundle.js",
     "lint": "tslint -p . -t verbose",
     "deploy": "yarn build && uglifyjs ./bundle.js -c -m -o ./bundle.min.js"
   },

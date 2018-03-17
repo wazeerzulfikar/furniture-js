@@ -1,0 +1,403 @@
+{
+  "ConvNet/conv2d/bias": {
+    "filename": "ConvNet_conv2d_bias",
+    "shape": [
+      32
+    ]
+  },
+  "ConvNet/conv2d/bias/Adam": {
+    "filename": "ConvNet_conv2d_bias_Adam",
+    "shape": [
+      32
+    ]
+  },
+  "ConvNet/conv2d/bias/Adam_1": {
+    "filename": "ConvNet_conv2d_bias_Adam_1",
+    "shape": [
+      32
+    ]
+  },
+  "ConvNet/conv2d/kernel": {
+    "filename": "ConvNet_conv2d_kernel",
+    "shape": [
+      5,
+      5,
+      3,
+      32
+    ]
+  },
+  "ConvNet/conv2d/kernel/Adam": {
+    "filename": "ConvNet_conv2d_kernel_Adam",
+    "shape": [
+      5,
+      5,
+      3,
+      32
+    ]
+  },
+  "ConvNet/conv2d/kernel/Adam_1": {
+    "filename": "ConvNet_conv2d_kernel_Adam_1",
+    "shape": [
+      5,
+      5,
+      3,
+      32
+    ]
+  },
+  "ConvNet/conv2d_1/bias": {
+    "filename": "ConvNet_conv2d_1_bias",
+    "shape": [
+      32
+    ]
+  },
+  "ConvNet/conv2d_1/bias/Adam": {
+    "filename": "ConvNet_conv2d_1_bias_Adam",
+    "shape": [
+      32
+    ]
+  },
+  "ConvNet/conv2d_1/bias/Adam_1": {
+    "filename": "ConvNet_conv2d_1_bias_Adam_1",
+    "shape": [
+      32
+    ]
+  },
+  "ConvNet/conv2d_1/kernel": {
+    "filename": "ConvNet_conv2d_1_kernel",
+    "shape": [
+      5,
+      5,
+      32,
+      32
+    ]
+  },
+  "ConvNet/conv2d_1/kernel/Adam": {
+    "filename": "ConvNet_conv2d_1_kernel_Adam",
+    "shape": [
+      5,
+      5,
+      32,
+      32
+    ]
+  },
+  "ConvNet/conv2d_1/kernel/Adam_1": {
+    "filename": "ConvNet_conv2d_1_kernel_Adam_1",
+    "shape": [
+      5,
+      5,
+      32,
+      32
+    ]
+  },
+  "ConvNet/conv2d_2/bias": {
+    "filename": "ConvNet_conv2d_2_bias",
+    "shape": [
+      64
+    ]
+  },
+  "ConvNet/conv2d_2/bias/Adam": {
+    "filename": "ConvNet_conv2d_2_bias_Adam",
+    "shape": [
+      64
+    ]
+  },
+  "ConvNet/conv2d_2/bias/Adam_1": {
+    "filename": "ConvNet_conv2d_2_bias_Adam_1",
+    "shape": [
+      64
+    ]
+  },
+  "ConvNet/conv2d_2/kernel": {
+    "filename": "ConvNet_conv2d_2_kernel",
+    "shape": [
+      3,
+      3,
+      32,
+      64
+    ]
+  },
+  "ConvNet/conv2d_2/kernel/Adam": {
+    "filename": "ConvNet_conv2d_2_kernel_Adam",
+    "shape": [
+      3,
+      3,
+      32,
+      64
+    ]
+  },
+  "ConvNet/conv2d_2/kernel/Adam_1": {
+    "filename": "ConvNet_conv2d_2_kernel_Adam_1",
+    "shape": [
+      3,
+      3,
+      32,
+      64
+    ]
+  },
+  "ConvNet/conv2d_3/bias": {
+    "filename": "ConvNet_conv2d_3_bias",
+    "shape": [
+      64
+    ]
+  },
+  "ConvNet/conv2d_3/bias/Adam": {
+    "filename": "ConvNet_conv2d_3_bias_Adam",
+    "shape": [
+      64
+    ]
+  },
+  "ConvNet/conv2d_3/bias/Adam_1": {
+    "filename": "ConvNet_conv2d_3_bias_Adam_1",
+    "shape": [
+      64
+    ]
+  },
+  "ConvNet/conv2d_3/kernel": {
+    "filename": "ConvNet_conv2d_3_kernel",
+    "shape": [
+      3,
+      3,
+      64,
+      64
+    ]
+  },
+  "ConvNet/conv2d_3/kernel/Adam": {
+    "filename": "ConvNet_conv2d_3_kernel_Adam",
+    "shape": [
+      3,
+      3,
+      64,
+      64
+    ]
+  },
+  "ConvNet/conv2d_3/kernel/Adam_1": {
+    "filename": "ConvNet_conv2d_3_kernel_Adam_1",
+    "shape": [
+      3,
+      3,
+      64,
+      64
+    ]
+  },
+  "ConvNet/conv2d_4/bias": {
+    "filename": "ConvNet_conv2d_4_bias",
+    "shape": [
+      128
+    ]
+  },
+  "ConvNet/conv2d_4/bias/Adam": {
+    "filename": "ConvNet_conv2d_4_bias_Adam",
+    "shape": [
+      128
+    ]
+  },
+  "ConvNet/conv2d_4/bias/Adam_1": {
+    "filename": "ConvNet_conv2d_4_bias_Adam_1",
+    "shape": [
+      128
+    ]
+  },
+  "ConvNet/conv2d_4/kernel": {
+    "filename": "ConvNet_conv2d_4_kernel",
+    "shape": [
+      3,
+      3,
+      64,
+      128
+    ]
+  },
+  "ConvNet/conv2d_4/kernel/Adam": {
+    "filename": "ConvNet_conv2d_4_kernel_Adam",
+    "shape": [
+      3,
+      3,
+      64,
+      128
+    ]
+  },
+  "ConvNet/conv2d_4/kernel/Adam_1": {
+    "filename": "ConvNet_conv2d_4_kernel_Adam_1",
+    "shape": [
+      3,
+      3,
+      64,
+      128
+    ]
+  },
+  "ConvNet/conv2d_5/bias": {
+    "filename": "ConvNet_conv2d_5_bias",
+    "shape": [
+      128
+    ]
+  },
+  "ConvNet/conv2d_5/bias/Adam": {
+    "filename": "ConvNet_conv2d_5_bias_Adam",
+    "shape": [
+      128
+    ]
+  },
+  "ConvNet/conv2d_5/bias/Adam_1": {
+    "filename": "ConvNet_conv2d_5_bias_Adam_1",
+    "shape": [
+      128
+    ]
+  },
+  "ConvNet/conv2d_5/kernel": {
+    "filename": "ConvNet_conv2d_5_kernel",
+    "shape": [
+      3,
+      3,
+      128,
+      128
+    ]
+  },
+  "ConvNet/conv2d_5/kernel/Adam": {
+    "filename": "ConvNet_conv2d_5_kernel_Adam",
+    "shape": [
+      3,
+      3,
+      128,
+      128
+    ]
+  },
+  "ConvNet/conv2d_5/kernel/Adam_1": {
+    "filename": "ConvNet_conv2d_5_kernel_Adam_1",
+    "shape": [
+      3,
+      3,
+      128,
+      128
+    ]
+  },
+  "ConvNet/conv2d_6/bias": {
+    "filename": "ConvNet_conv2d_6_bias",
+    "shape": [
+      1024
+    ]
+  },
+  "ConvNet/conv2d_6/bias/Adam": {
+    "filename": "ConvNet_conv2d_6_bias_Adam",
+    "shape": [
+      1024
+    ]
+  },
+  "ConvNet/conv2d_6/bias/Adam_1": {
+    "filename": "ConvNet_conv2d_6_bias_Adam_1",
+    "shape": [
+      1024
+    ]
+  },
+  "ConvNet/conv2d_6/kernel": {
+    "filename": "ConvNet_conv2d_6_kernel",
+    "shape": [
+      1,
+      1,
+      128,
+      1024
+    ]
+  },
+  "ConvNet/conv2d_6/kernel/Adam": {
+    "filename": "ConvNet_conv2d_6_kernel_Adam",
+    "shape": [
+      1,
+      1,
+      128,
+      1024
+    ]
+  },
+  "ConvNet/conv2d_6/kernel/Adam_1": {
+    "filename": "ConvNet_conv2d_6_kernel_Adam_1",
+    "shape": [
+      1,
+      1,
+      128,
+      1024
+    ]
+  },
+  "ConvNet/dense/bias": {
+    "filename": "ConvNet_dense_bias",
+    "shape": [
+      128
+    ]
+  },
+  "ConvNet/dense/bias/Adam": {
+    "filename": "ConvNet_dense_bias_Adam",
+    "shape": [
+      128
+    ]
+  },
+  "ConvNet/dense/bias/Adam_1": {
+    "filename": "ConvNet_dense_bias_Adam_1",
+    "shape": [
+      128
+    ]
+  },
+  "ConvNet/dense/kernel": {
+    "filename": "ConvNet_dense_kernel",
+    "shape": [
+      1024,
+      128
+    ]
+  },
+  "ConvNet/dense/kernel/Adam": {
+    "filename": "ConvNet_dense_kernel_Adam",
+    "shape": [
+      1024,
+      128
+    ]
+  },
+  "ConvNet/dense/kernel/Adam_1": {
+    "filename": "ConvNet_dense_kernel_Adam_1",
+    "shape": [
+      1024,
+      128
+    ]
+  },
+  "ConvNet/dense_1/bias": {
+    "filename": "ConvNet_dense_1_bias",
+    "shape": [
+      8
+    ]
+  },
+  "ConvNet/dense_1/bias/Adam": {
+    "filename": "ConvNet_dense_1_bias_Adam",
+    "shape": [
+      8
+    ]
+  },
+  "ConvNet/dense_1/bias/Adam_1": {
+    "filename": "ConvNet_dense_1_bias_Adam_1",
+    "shape": [
+      8
+    ]
+  },
+  "ConvNet/dense_1/kernel": {
+    "filename": "ConvNet_dense_1_kernel",
+    "shape": [
+      128,
+      8
+    ]
+  },
+  "ConvNet/dense_1/kernel/Adam": {
+    "filename": "ConvNet_dense_1_kernel_Adam",
+    "shape": [
+      128,
+      8
+    ]
+  },
+  "ConvNet/dense_1/kernel/Adam_1": {
+    "filename": "ConvNet_dense_1_kernel_Adam_1",
+    "shape": [
+      128,
+      8
+    ]
+  },
+  "beta1_power": {
+    "filename": "beta1_power",
+    "shape": []
+  },
+  "beta2_power": {
+    "filename": "beta2_power",
+    "shape": []
+  }
+}

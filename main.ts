@@ -62,11 +62,6 @@ export interface SampleData {
   labels: number[];
 }
 
-/**
- * Infers through a 3-layer fully connected MNIST model using the Math API.
- * This is the lowest level user-facing API in deeplearn.js giving the most
- * control to the user. Math commands execute immediately, like numpy.
- */
 export function infer(
     x: dl.Tensor3D, vars: {[varName: string]: dl.Tensor}): dl.Scalar {
   const conv1B = vars['ConvNet/conv2d/bias'] as dl.Tensor1D;
